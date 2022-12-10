@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/Invitation/static/css/main.6570533b.css",
-    "main.js": "/Invitation/static/js/main.37dc1265.js",
+    "main.js": "/Invitation/static/js/main.8c220eac.js",
     "static/media/information_icon.png": "/Invitation/static/media/information_icon.e5e3c7d244a9ab929803.png",
-    "static/media/plane.jpg": "/Invitation/static/media/plane.a92109bf6d11c6369c3b.jpg",
+    "static/media/plane.png": "/Invitation/static/media/plane.4e5599beb2fd2d20fdda.png",
     "static/media/confirmation_icon.png": "/Invitation/static/media/confirmation_icon.255baae377a3721f99fa.png",
     "static/media/clouds.jpg": "/Invitation/static/media/clouds.c991c2ff81850ee72ace.jpg",
+    "static/media/airplane_company_logo.png": "/Invitation/static/media/airplane_company_logo.fec67e86bfddb006be07.png",
     "index.html": "/Invitation/index.html",
     "main.6570533b.css.map": "/Invitation/static/css/main.6570533b.css.map",
-    "main.37dc1265.js.map": "/Invitation/static/js/main.37dc1265.js.map"
+    "main.8c220eac.js.map": "/Invitation/static/js/main.8c220eac.js.map"
   },
   "entrypoints": [
     "static/css/main.6570533b.css",
-    "static/js/main.37dc1265.js"
+    "static/js/main.8c220eac.js"
   ]
 }
