@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Invitation/static/css/main.6570533b.css",
-    "main.js": "/Invitation/static/js/main.832becad.js",
+    "main.js": "/Invitation/static/js/main.0944bc7b.js",
     "static/media/information_icon.png": "/Invitation/static/media/information_icon.e5e3c7d244a9ab929803.png",
     "static/media/plane.png": "/Invitation/static/media/plane.4e5599beb2fd2d20fdda.png",
     "static/media/confirmation_icon.png": "/Invitation/static/media/confirmation_icon.255baae377a3721f99fa.png",
@@ -9,10 +9,10 @@
     "static/media/airplane_company_logo.png": "/Invitation/static/media/airplane_company_logo.fec67e86bfddb006be07.png",
     "index.html": "/Invitation/index.html",
     "main.6570533b.css.map": "/Invitation/static/css/main.6570533b.css.map",
-    "main.832becad.js.map": "/Invitation/static/js/main.832becad.js.map"
+    "main.0944bc7b.js.map": "/Invitation/static/js/main.0944bc7b.js.map"
   },
   "entrypoints": [
     "static/css/main.6570533b.css",
-    "static/js/main.832becad.js"
+    "static/js/main.0944bc7b.js"
   ]
 }
